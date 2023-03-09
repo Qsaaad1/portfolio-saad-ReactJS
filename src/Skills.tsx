@@ -36,7 +36,7 @@ function Skills({}: Props) {
         Hover over to learn more
       </h3>
 
-      <div className="grid sm:grid-cols-3 md:grid-cols-4 gap-5 py-48 sm:h-screen">
+      <div className="grid grid-cols-4 gap-5 py-48 sm:h-screen">
         <Skill/>
         <Skill12/>
         <Skill2/>
