@@ -19,7 +19,7 @@ const Projects = (props: Props) => {
         Projects
       </h3>
 
-      <div className="w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden p-10 snap-x snap-mandatory  scrollbar-none">
+      <div className="w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden p-10 snap-x snap-mandatory  ">
         {/* Projects Cards */}
         <Project1 />
         <Project2 />
