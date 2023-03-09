@@ -1,6 +1,9 @@
 import React from "react";
 import { PhoneIcon, MapPinIcon, EnvelopeIcon } from "@heroicons/react/24/solid";
+import CallIcon from '@mui/icons-material/Call';
+import LocationOnIcon from '@mui/icons-material/LocationOn';
 import { useForm, SubmitHandler } from "react-hook-form";
+import EmailIcon from '@mui/icons-material/Email';
 
 type Inputs = {
   name: string;
@@ -21,6 +24,7 @@ function ContactMe({}: Props) {
       <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl">
         Contact
       </h3>
+      
 
       <div className="flex flex-col space-y-10">
         <h4 className="text-4xl font-semibold text-center">
@@ -30,19 +34,18 @@ function ContactMe({}: Props) {
 
         <div>
           <div className="flex items-center space-x-5 justify-center">
-            <PhoneIcon className="text-red-400 h-7 w-7 animate-pulse" />
+            <CallIcon className="text-red-400 h-7 w-7 animate-pulse" />
             <p className="text-2xl">+91-87700-42440</p>
           </div>
 
           <div className="flex items-center space-x-5 justify-center">
-            <MapPinIcon className="text-red-400 h-7 w-7 animate-pulse" />
+            <LocationOnIcon className="text-red-400 h-7 w-7 animate-pulse" />
             <p className="text-2xl">
               77/2 Haji Colony, Khajrana, Indore, M.P.
             </p>
           </div>
-
           <div className="flex items-center space-x-5 justify-center">
-            <EnvelopeIcon className="text-red-400 h-7 w-7 animate-pulse" />
+            <EmailIcon className="text-red-400 h-7 w-7 animate-pulse" />
             <p className="text-2xl">qsaaad1@gmail.com</p>
           </div>
 
