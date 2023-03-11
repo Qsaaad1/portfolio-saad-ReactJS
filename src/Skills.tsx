@@ -36,7 +36,7 @@ function Skills({}: Props) {
         Hover over to learn more
       </h3>
 
-      <div className="grid grid-cols-4 gap-5 py-48 sm:h-screen">
+      <div className="grid grid-cols-4 sm:grid-cols-4 gap-5 py-64 md:py-52 h-screen">
         <Skill/>
         <Skill12/>
         <Skill2/>
@@ -53,8 +53,7 @@ function Skills({}: Props) {
         <Skill14/>
         <Skill15/>
         <Skill16/>
-
-       
+    
       </div>
     </motion.div>
   );
