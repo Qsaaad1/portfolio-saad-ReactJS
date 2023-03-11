@@ -63,13 +63,13 @@ export default function Header({}: Props) {
           <button>RESUME</button>
         </a>
 
+        <a href="#contact">
         <SocialIcon
           className="cursor-pointer"
           network="email"
           fgColor="gray"
           bgColor="transparent"
         />
-        <a href="#contact">
           <div className="uppercase hidden md:inline-flex text-sm text-gray-400 hover:text-red-400">
             Get in Touch
           </div>
