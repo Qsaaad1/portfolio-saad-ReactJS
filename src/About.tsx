@@ -28,7 +28,7 @@ function About({}: Props) {
         }}
         viewport={{ once: true }}
         src="https://user-images.githubusercontent.com/101616957/223126135-d0e84b66-3e60-40ac-abfc-88a18cfbd0cf.jpg"
-        className=" z-20 -mb-20 md:mb-0 flex-shrink-0  w-24 h-24 mt-32  sm:w-44 sm:h-44 rounded-full object-cover  md:rounded-lg md:w-64 md:h-96 xl:h-[500px] xl:w-[500px] "
+        className=" z-20 -mb-20 md:mb-0 flex-shrink-0  w-32 h-32 mt-32  sm:w-64 sm:h-64 rounded-full object-cover  md:rounded-lg md:w-64 md:h-96 xl:h-[500px] xl:w-[500px] "
       />
 
       <div className="space-y-10 pt-20 px-0 md:px-10">
