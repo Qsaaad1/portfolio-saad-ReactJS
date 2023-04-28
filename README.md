@@ -2,11 +2,11 @@ Demo - https://qsaaad1.vercel.app
 # Portfolio with ReactJS, Tailwind CSS and Framer Motion
 
 # Tech Stack
-- ReactJS.
-- Material UI.
-- Tailwind CSS.
-- Framer Motion.
-- React Hook Form.
+- ReactJS
+- Material UI
+- Tailwind CSS
+- Framer Motion
+- React Hook Form
 
 ![Screenshot 2023-03-15 at 7 28 30 PM](https://user-images.githubusercontent.com/101616957/225331313-b69ece19-5145-4f2d-ba56-255608b983ba.jpg)
 
