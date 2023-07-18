@@ -20,7 +20,7 @@ export default function Hero({}: Props) {
       <BackgroundCircles />
       <img
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
-        src="https://user-images.githubusercontent.com/101616957/223125591-adbc7ccd-777e-445a-8066-45847239326f.jpeg"
+        src="https://avatars.githubusercontent.com/u/101616957?v=4"
         alt="Profile Picture"
       />
 
