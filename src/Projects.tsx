@@ -3,6 +3,7 @@ import React from "react";
 import Project1 from "./Project/Project1";
 import Project2 from "./Project/Project2";
 import Project3 from "./Project/Project3";
+import Project4 from "./Project/Project4";
 
 type Props = {};
 
@@ -22,9 +23,10 @@ const Projects = (props: Props) => {
       <div className=" w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden  p-10 snap-x snap-mandatory scrollbar  scrollbar-track-gray-400/20 scrollbar-thumb-red-400/80  ">
       {/* w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden p-10 snap-x snap-mandatory */}
         {/* Projects Cards */}
-        <Project1 />
+        <Project4 />
         <Project2 />
         <Project3 />
+        <Project1 />
       </div>
 
       <div className="w-full absolute top-[30%] bg-[#EF5350]/40 left-0 h-[500px] -skew-y-12" />
