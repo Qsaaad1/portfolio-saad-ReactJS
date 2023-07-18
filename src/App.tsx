@@ -44,7 +44,7 @@ function App() {
           <div className="flex items-center justify-end px-10 ">
             <img
               className="h-10 w-10 rounded-full filter  "
-              src="https://user-images.githubusercontent.com/101616957/223223780-6bb0c2b7-a94d-400f-b393-78dda1731468.jpeg"
+              src="https://user-images.githubusercontent.com/101616957/223125591-adbc7ccd-777e-445a-8066-45847239326f.jpeg"
             />
           </div>
         </footer>
