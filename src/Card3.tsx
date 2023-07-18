@@ -5,7 +5,7 @@ type Props = {};
 
 function Card3({}: Props) {
   return (
-    <article className="flex flex-col rounded-lg p-10 items-center space-y-7 flex-shrink-0 w-[600px] md:w-[700px] xl:w-[900px] snap-center bg-[#292929] hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden">
+    <article className="flex flex-col rounded-lg p-2 items-center space-y-7 flex-shrink-0 w-[400px] sm:w-[600px] md:w-[700px] xl:w-[900px] snap-center bg-[#292929] hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden">
       <motion.img
         initial={{ y: -100, opacity: 0 }}
         transition={{ duration: 1.2 }}
@@ -16,11 +16,11 @@ function Card3({}: Props) {
       />
 
       <div className="px-0 space-y-4 md:px-10 ">
-        <h4 className="text-4xl font-light">Secondary (X)</h4>
-        <p className="text-2xl font-light">
+        <h4 className="sm:text-4xl font-light">Secondary (X)</h4>
+        <p className="sm:text-2xl font-light">
         Shri Gujarati Samaj (CBSE Board)     
         </p>
-        <ul className="list-disc space-y-4 ml-5 text-lg ">
+        <ul className="list-disc space-y-4 ml-5 sm:text-lg ">
           <li>2017-2018</li>
           <li>Percentage : 80%</li>
         </ul>
