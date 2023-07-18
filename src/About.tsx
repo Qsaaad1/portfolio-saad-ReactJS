@@ -27,7 +27,7 @@ function About({}: Props) {
           opacity: 1,
         }}
         viewport={{ once: true }}
-        src="https://user-images.githubusercontent.com/101616957/223126135-d0e84b66-3e60-40ac-abfc-88a18cfbd0cf.jpg"
+        src="https://user-images.githubusercontent.com/101616957/254258098-a29031bc-cf02-40b7-9ce8-e0fe1b477cf8.jpeg"
         className=" z-20 -mb-20 md:mb-0 flex-shrink-0  w-32 h-32 mt-10  sm:w-64 sm:h-64 rounded-full object-cover  md:rounded-lg md:w-64 md:h-96 xl:h-[450px] xl:w-[450px] "
       />
 
