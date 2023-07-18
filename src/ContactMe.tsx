@@ -48,12 +48,17 @@ function ContactMe({}: Props) {
           </div>
         </div>
 
-        <div className="w-3 flex items-center justify-center mx-auto">
+
+
+
+
+        <div className="w-3 flex items-center justify-center mx-auto ">
+          
           <form
             onSubmit={handleSubmit(onSubmit)}
-            className="flex flex-col space-y-2  w-fit mx-auto"
+            className="flex flex-col space-y-2  w-fit mx-auto  "
           >
-            <div className="flex space-x-2">
+            <div className="sm:flex sm:space-x-2 space-y-2 sm:space-y-0  ">
               <input
                 {...register("name")}
                 placeholder="Name"
@@ -89,6 +94,9 @@ function ContactMe({}: Props) {
             </button>
           </form>
         </div>
+
+
+
       </div>
     </div>
   );
