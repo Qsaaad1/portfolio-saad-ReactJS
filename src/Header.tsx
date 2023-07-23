@@ -56,7 +56,7 @@ export default function Header({}: Props) {
         {/* Nav */}
         <a
           download="Resume"
-          href="https://drive.google.com/file/d/1QuL-mdKUFeoZUwuq6XFsi0IwsvyPoN5K/view?usp=share_link"
+          href="https://drive.google.com/file/d/1G-35Q8V4h-PtpzgsRwuBEtedYcO9utYz/view?usp=sharing"
           target="_blank"
           className="text-sm text-gray-400 border border-gray-400 rounded-full   px-4 py-1  transition-all hover:border-red-400 hover:text-red-400 "
         >
