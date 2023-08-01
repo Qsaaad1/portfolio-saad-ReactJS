@@ -13,7 +13,7 @@ function Skill({ directionLeft }: Props) {
          transition={{ duration: 1 }}
          whileInView={{ opacity: 1, x: 0 }}
          className="rounded-full border border-gray-500 object-cover w-16 h-16 sm:w-20 sm:h-20 md:h-24 md:w-24   filter group-hover:grayscale " // transition duration-300 ease-in-out
-         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&usqp=CAU"
+         src="https://user-images.githubusercontent.com/101616957/257496256-a72e2761-c73e-46e8-8f6b-353e033e42c9.png"
         
       />
       <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white w-16 h-16 sm:w-20 sm:h-20 md:h-24 md:w-24  rounded-full z-0">
