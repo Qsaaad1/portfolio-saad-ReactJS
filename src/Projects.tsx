@@ -23,9 +23,9 @@ const Projects = (props: Props) => {
       <div className=" w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden  p-10 snap-x snap-mandatory scrollbar  scrollbar-track-gray-400/20 scrollbar-thumb-red-400/80  ">
       {/* w-full z-20 flex space-x-5 overflow-x-scroll overflow-y-hidden p-10 snap-x snap-mandatory */}
         {/* Projects Cards */}
+        <Project3 />
         <Project4 />
         <Project2 />
-        <Project3 />
         <Project1 />
       </div>
 
