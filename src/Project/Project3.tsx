@@ -12,19 +12,19 @@ function Project3({}: Props) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className="rounded-lg h-[150px] w-[300px] md:h-[300px] md:w-[400px] lg:h-[400px] lg:w-[500px]   "
-          src="https://user-images.githubusercontent.com/101616957/224053302-9e84a7df-5813-4d4f-a76d-0031e730f553.jpg"
+          src="https://user-images.githubusercontent.com/101616957/258655212-7684e63c-4e23-42a4-aafd-eb35f2e15ff4.jpg"
         />
         <div className="space-y-10 px-0 md:px-10  max-w-6xl  ">
           <h4 className="text-4xl font-semibold text-center">
-            <span className="underline decoration-[#EF5350]/60">Project 3</span>{" "}
-            : Rangoli Studio{" "}
+            <span className="underline decoration-[#EF5350]/60">Project 1</span>{" "}
+            : Invent-R{" "}
           </h4>
 
           <p className="text-lg text-center">
-          App to create Rangoli designs easily. Made with Python and tkinter.
+          Invent-R is an inventory management app using MERN Stack.
           </p>
           <div className="flex flex-row mx-auto text-center justify-center">
-            <a href="https://github.com/Qsaaad1/Rangoli-Studio">
+            <a href="https://github.com/Qsaaad1/Inventory-MERN">
             <button className="linkButton">GitHub</button>
             </a>
           </div>
