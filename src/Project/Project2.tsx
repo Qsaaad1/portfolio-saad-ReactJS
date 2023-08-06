@@ -17,7 +17,7 @@ function Project2({}: Props) {
         />
         <div className="space-y-10 px-0 md:px-10  max-w-6xl  ">
           <h4 className="text-4xl font-semibold text-center">
-            <span className="underline decoration-[#EF5350]/60">Project 2</span>{" "}
+            <span className="underline decoration-[#EF5350]/60">Project 3</span>{" "}
             : Amazon Clone{" "}
           </h4>
 
