@@ -38,23 +38,24 @@ function Skills({}: Props) {
 
       <div className="grid grid-cols-3 sm:grid-cols-4 gap-5 py-64 md:py-52 h-screen">
         <Skill/>
-        <Skill12/>
         <Skill2/>
         <Skill3/>
+        <Skill12/>
         <Skill7/>
         <Skill10/>
         <Skill4/>
         <Skill6/>
-        <Skill5/>
-        <Skill9/>
-        <Skill11/>
         <Skill8/>
+        <Skill5/>
         <Skill13/>
         <Skill14/>
         <Skill15/>
+        <Skill11/>
+        <Skill9/>
         <Skill16/>
     
       </div>
+      
     </motion.div>
   );
 }
