@@ -39,7 +39,7 @@ function ContactMe({}: Props) {
           <div className="flex items-center space-x-2 justify-center">
             <LocationOnIcon className="text-red-400 h-7 w-7 animate-pulse" />
             <p className="text-xl sm:text-2xl">
-              77/2 Haji Colony, Khajrana, Indore, M.P.
+              Haji Colony, Khajrana, Indore, M.P.
             </p>
           </div>
           <div className="flex items-center space-x-2 justify-center">
