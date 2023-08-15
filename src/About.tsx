@@ -36,16 +36,19 @@ function About({}: Props) {
           Here is a <span className="underline decoration-red-400">little</span>{" "}
           about me...
         </h4>
-        <p className="text-base sm:text-lg">
-          My name is Saad Ahmed Qureshi and I am a highly motivated individual
-          with a passion for success 💯. I bring a wealth of knowledge and
-          experience to any project. I am a strong leader and team player, able
-          to effectively communicate and collaborate with others to achieve
-          common goals 🌟. I am committed to continuous learning and growth,
-          always looking for new opportunities to expand my skills and
-          knowledge. In my free time, I enjoy playing Chess ♛. Connect with me
-          on LinkedIn to learn more about my professional journey as a web
-          developer and how I can contribute to your organization.
+        <p className="flex justify-center text-base sm:text-lg ">
+          My name is Saad Ahmed Qureshi and I am a passionate and
+          dedicated software developer with a strong foundation in 
+          JavaScript, TypeScript, Java, C++, and Python. As a fresher 
+          , I am enthusiastic about leveraging my technical 
+          skills and knowledge to create innovative and impactful solutions.
+          My journey in software development has been fueled by a curiosity 
+          to explore emerging technologies and a commitment to continuous learning. 🚀
+           <br />
+          I am committed to continuous learning and growth, always looking for ne
+          opportunities to expand my skills and knowledge. 
+          Connect with me on LinkedIn to learn more about my professional journey as
+          a web developer and how I can contribute to your organization.✌️
         </p>
       </div>
     </motion.div>
