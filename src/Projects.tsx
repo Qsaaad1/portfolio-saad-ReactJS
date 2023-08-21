@@ -26,7 +26,7 @@ const Projects = (props: Props) => {
         <Project3 />
         <Project4 />
         <Project2 />
-        <Project1 />
+{/*         <Project1 /> */}
       </div>
 
       <div className="w-full absolute top-[30%] bg-[#EF5350]/40 left-0 h-[500px] -skew-y-12" />
