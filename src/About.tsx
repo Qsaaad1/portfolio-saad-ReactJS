@@ -27,7 +27,7 @@ function About({}: Props) {
           opacity: 1,
         }}
         viewport={{ once: true }}
-        src="https://private-user-images.githubusercontent.com/101616957/266399842-5ae70a26-004b-44a5-b6c2-5cdcb87633fe.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQxMDkwNzIsIm5iZiI6MTY5NDEwODc3MiwicGF0aCI6Ii8xMDE2MTY5NTcvMjY2Mzk5ODQyLTVhZTcwYTI2LTAwNGItNDRhNS1iNmMyLTVjZGNiODc2MzNmZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwOTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDkwN1QxNzQ2MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTIyM2ZjMDExMGEyYTJiYjgyYTJlYzZiN2VlZjk4MTNmMjI2ODQxMzgwN2MwZGUyMjllZjJiMmY1MjNhNTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qrkT7xIRvyYIHphDPJ_-LxEthafmfTQjtAARb-6cJX0"
+        src="https://scontent-bom1-2.cdninstagram.com/v/t51.2885-19/375414744_310575428128091_2965353411761850409_n.jpg?stp=dst-jpg_e0_s320x320&cb=efdfa7ed-ac1ee5b6&efg=eyJxZV9ncm91cHMiOiJbXCJpZ19ianBnX3Byb2ZpbGVfcGljXzA5MTFfdGVzdC0wXCJdIn0&_nc_ht=scontent-bom1-2.cdninstagram.com&_nc_cat=111&_nc_ohc=P_KmV_7fnsYAX8ofd1I&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfACehz62fKCqsrEZ0mPqSe7zsG2tZzp1q2fHJcmMcFPIg&oe=650506CF&_nc_sid=8b3546"
         className=" z-20 -mb-20 md:mb-0 flex-shrink-0  w-32 h-32 mt-10  sm:w-64 sm:h-64 rounded-full object-cover  md:rounded-lg md:w-64 md:h-96 xl:h-[450px] xl:w-[450px] "
       />
 
