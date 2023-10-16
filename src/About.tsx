@@ -27,7 +27,7 @@ function About({}: Props) {
           opacity: 1,
         }}
         viewport={{ once: true }}
-        src="https://private-user-images.githubusercontent.com/101616957/266399842-5ae70a26-004b-44a5-b6c2-5cdcb87633fe.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTc0NTc3NjgsIm5iZiI6MTY5NzQ1NzQ2OCwicGF0aCI6Ii8xMDE2MTY5NTcvMjY2Mzk5ODQyLTVhZTcwYTI2LTAwNGItNDRhNS1iNmMyLTVjZGNiODc2MzNmZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAxNlQxMTU3NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTkwOGM2ZWQwY2Q5MGY4MjQxZmMyNzc1ZmEyZGE3OGJjN2Y2YWIzNzVjY2JiOGQ5MzNmZmIxNTAxNDdmNDk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M3aTtKQHERsRqt3-zqCzfWPe1Mb-Fp9DWXIdEiKx8L4"
+        src="https://user-images.githubusercontent.com/101616957/275544625-f7d07228-e8ba-47ca-917f-4aede3c6b126.jpeg"
         className=" z-20 -mb-20 md:mb-0 flex-shrink-0  w-32 h-32 mt-10  sm:w-64 sm:h-64 rounded-full object-cover  md:rounded-lg md:w-64 md:h-96 xl:h-[450px] xl:w-[450px] "
       />
 
